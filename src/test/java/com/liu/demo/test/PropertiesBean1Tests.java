@@ -23,5 +23,6 @@ public class PropertiesBean1Tests {
     @Test
     public void loadBean(){
         System.out.println(propertiesBean);
+        System.out.println("111111111");
     }
 }
