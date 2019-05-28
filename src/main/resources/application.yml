@@ -1,0 +1,12 @@
+#配置
+server:
+  #端口配置
+  port: 8080
+  servlet:
+    #访问路径
+    context-path: /demo
+
+#bean配置
+bean:
+  name: springboot
+  age:  20
