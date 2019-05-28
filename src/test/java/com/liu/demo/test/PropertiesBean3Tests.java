@@ -22,7 +22,7 @@ public class PropertiesBean3Tests {
 
     @Test
     public void loadBean(){
-        System.out.println("ceshi.....");
+        System.out.println("ceshi...");
         System.out.println(environment.getProperty("bean.name"));
     }
 }
